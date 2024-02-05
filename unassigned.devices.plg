@@ -1,8 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name		"unassigned.devices">
-<!ENTITY author		"dlandon">
-<!ENTITY version	"2024.02.02a">
+<!ENTITY author		"chris-merritt">
+<!ENTITY version	"2024.02.02b">
 <!ENTITY launch		"Main/UnassignedDevices">
 <!ENTITY gitURL		"https://raw.githubusercontent.com/&author;/&name;/master">
 <!ENTITY pluginURL	"&gitURL;/&name;.plg">
