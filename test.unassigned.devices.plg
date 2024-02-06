@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
-<!ENTITY name		"test.unassigned.devices">
+<!ENTITY name		"unassigned.devices">
 <!ENTITY author		"chris-merritt">
 <!ENTITY version	"2024.02.02b">
 <!ENTITY launch		"Main/UnassignedDevices">
